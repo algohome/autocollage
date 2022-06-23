@@ -1,0 +1,9 @@
+Temp file to store TODO's before I make a README.md
+
+TODO: Maybe make canvas bigger than target so there can be pasting that goes over the boundary
+TODO: Implement other (better) image comparison functions
+TODO: Let the canvas start with an image (will make animating easier if you go that route later)
+TODO: Add opencv for live monitoring
+TODO: Add multiple sample sizes
+TODO: Document Everything
+TODO: Post on github with pictures, then share with friends :)
